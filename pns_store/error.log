@@ -1,0 +1,2029 @@
+[27-Sep-2025 09:40:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pns_store\login.php on line 6
+[27-Sep-2025 09:40:56 Europe/Berlin] Checking login state [SID: a0algaqvgsb7hodrmav405m4dq]: Array
+(
+)
+
+[27-Sep-2025 09:40:56 Europe/Berlin] Not logged in - missing user_id or user_token
+[27-Sep-2025 09:43:49 Europe/Berlin] Checking login state [SID: a0algaqvgsb7hodrmav405m4dq]: Array
+(
+    [last_activity] => 1758959028
+)
+
+[27-Sep-2025 09:43:49 Europe/Berlin] Not logged in - missing user_id or user_token
+[27-Sep-2025 09:44:02 Europe/Berlin] Checking login state [SID: a0algaqvgsb7hodrmav405m4dq]: Array
+(
+    [last_activity] => 1758959042
+)
+
+[27-Sep-2025 09:44:02 Europe/Berlin] Not logged in - missing user_id or user_token
+[27-Sep-2025 09:44:02 Europe/Berlin] Login successful for user: 2, Role: admin
+[27-Sep-2025 09:44:02 Europe/Berlin] Session data: Array
+(
+    [last_activity] => 1758959042
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:04 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959104
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:04 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:04 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959104
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:04 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:04 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959104
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:04 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:04 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959104
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:04 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:04 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959104
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:04 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:04 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959104
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:04 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:04 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959104
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:04 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:05 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959105
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:05 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:05 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959105
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:05 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:05 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959105
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:05 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:06 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959106
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:06 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:08 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959108
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:08 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:09 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959109
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:09 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:10 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959110
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:10 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:11 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959111
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:11 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:12 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959112
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:12 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:13 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959113
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:14 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959114
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:14 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:19 Europe/Berlin] Checking login state [SID: icpgvpov5reqm35crme7qcuhke]: Array
+(
+    [last_activity] => 1758959119
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:19 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:45:49 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959149
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:45:49 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959209
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:46:50 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959210
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:46:50 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:46:50 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:13 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959233
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:13 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:13 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:25 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959245
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:25 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:25 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:26 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959246
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:26 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:26 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:26 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959246
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:26 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:26 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:26 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959246
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:26 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:26 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:26 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959246
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:26 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:26 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:26 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959246
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:26 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:26 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:26 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959246
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:26 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:26 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:27 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959247
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:27 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:27 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:27 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959247
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:27 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:27 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:27 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959247
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:27 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:27 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:27 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959247
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:27 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:27 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:34 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959254
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:34 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:34 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:35 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959255
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:35 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:35 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:36 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959256
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:36 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:36 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:36 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959256
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:36 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:36 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:36 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959256
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:36 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:36 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:36 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959256
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:36 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:36 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:36 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959256
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:36 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:36 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:36 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959256
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:36 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:36 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:36 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959256
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:36 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:36 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:47:36 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959256
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:47:36 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:47:36 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:20 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959660
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:20 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:20 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:21 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959661
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:21 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:21 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:22 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959662
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:22 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:22 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:22 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959662
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:22 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:22 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:22 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959662
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:22 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:22 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:22 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959662
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:22 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:22 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:22 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959662
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:22 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:22 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:22 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959662
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:22 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:22 Europe/Berlin] Already logged in, redirecting based on role
+[27-Sep-2025 09:54:22 Europe/Berlin] isLoggedIn check - Session data: Array
+(
+    [last_activity] => 1758959662
+    [user_id] => 2
+    [role] => admin
+    [org_id] => 
+    [name] => Kurt Admin
+    [user_token] => 86ab0fad4a124ca211cce25eaefc9673507ef720b2aec6e171a8fbb335172983
+)
+
+[27-Sep-2025 09:54:22 Europe/Berlin] User is logged in with role: admin
+[27-Sep-2025 09:54:22 Europe/Berlin] Already logged in, redirecting based on role

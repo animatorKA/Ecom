@@ -1,0 +1,2 @@
+[27-Sep-2025 09:38:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "config", expecting "]" in C:\xampp\htdocs\pns_store\config.php on line 19
+[27-Sep-2025 09:44:02 Europe/Berlin] PHP Fatal error:  Cannot redeclare getSuccessMessage() (previously declared in C:\xampp\htdocs\pns_store\admin\admin_functions.php:77) in C:\xampp\htdocs\pns_store\config.php on line 125
